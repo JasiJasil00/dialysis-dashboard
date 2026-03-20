@@ -53,4 +53,4 @@ const PatientSchema: Schema = new Schema(
    Model
 ======================== */
 
-export const Patient = mongoose.model<IPatient>("Patient", PatientSchema);
+export default  mongoose.model<IPatient>("Patient", PatientSchema);
