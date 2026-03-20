@@ -1,0 +1,5 @@
+{
+    "powerquery.client.additionalSymbolsDirectories": [
+        "d:/work/janohealthcare/dialysis-dashboard/.vscode/excel-pq-symbols"
+    ]
+}
