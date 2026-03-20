@@ -159,7 +159,8 @@ frontend/
 
 ## 📸 Screenshots (Optional)
 
-(Add UI screenshots here)
+<img width="1919" height="944" alt="image" src="https://github.com/user-attachments/assets/9a6456ee-8c7b-430a-8427-97aeab4b4bcb" />
+
 
 ---
 
