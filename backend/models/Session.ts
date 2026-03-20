@@ -41,7 +41,7 @@ const SessionSchema: Schema = new Schema(
     startTime: {
       type: Date,
       required: true,
-      index: true // used for "today's schedule"
+      //index: true // used for "today's schedule"
     },
 
     endTime: {
